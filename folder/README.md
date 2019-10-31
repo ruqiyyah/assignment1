@@ -1,1 +1,2 @@
 # assignment1
+In this assignment I put two pictures one is IIUM logo and the second is IIUM picture. For the first picture I adjust it in right side using css. Also, create form for login that ask the user to enter matric no and password. Then, I create check box if the user dont want to enter password again, and create login button and adjust the height and width. Next, create link for user to download the picture. Lastly, I create footer that contain copyrighrt2019 and two links for privacy policy and disclaimer.
